@@ -1,4 +1,4 @@
-# 🌙 Lennon Dev — Code Beyond the Night
+# 🌙<span style="font-family:Final Fantasy Classical Regular">Lennon Dev — Code Beyond the Night</span>
 
 > *“Walk tall, my friends.”*
 > Building systems, exploring ideas, and shipping code like a road trip through Eos.
