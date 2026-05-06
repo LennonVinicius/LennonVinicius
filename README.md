@@ -43,17 +43,6 @@ Interests:
 
 ##  Featured Projects
 
-
-###  Job Bot Ecosystem
-
-> Bots for job discovery across platforms
-
-* Telegram & Discord integrations
-* Real-time job aggregation
-* Automation pipelines
-
----
-
 ### ⚙️ System Tools & Experiments
 
 > Low-level and backend experiments
