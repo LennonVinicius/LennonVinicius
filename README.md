@@ -2,7 +2,6 @@
 <img src="./README-assets/Lennon Vinicius.png" width = 400px>
 
 > *“Walk tall, my friends.”*
-> Building systems, exploring ideas, and shipping code like a road trip through Eos.
 
 ---
 
@@ -54,6 +53,11 @@ Lennon Vinicius — Developer | Builder | Problem Solver
 
 ##  🌕Contributions
 
+### Contributions in the last year
+<p align ='center'>
+<img  src = "https://ghchart.rshah.org/LENNONVINICIUS">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=LENNONVINICIUS">
+</p>
 
 ---
 
