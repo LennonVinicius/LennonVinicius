@@ -1,21 +1,5 @@
 # 
-
-<table border ="0">
-<tr border ="0">
- <td border ="0"'>
-  <img src= 'https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnB6amtwNzJzOXVhdDh5aHVzMzlkNnN0YzFwejIxbjQ0c2xoY3ZwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t6JteOXUbHdkjv2oqb/giphy.gif' width = 200>
-</td> 
-<td border ="0">
 <img src="./README-assets/Lennon Vinicius.png" width = 400px>
-</td>
-
-<td border ="0">
-  <img src= 'https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnB6amtwNzJzOXVhdDh5aHVzMzlkNnN0YzFwejIxbjQ0c2xoY3ZwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t6JteOXUbHdkjv2oqb/giphy.gif' width = 200>
-</td>
-</tr>
-</table>
-
- </p>
 
 > *“Walk tall, my friends.”*
 > Building systems, exploring ideas, and shipping code like a road trip through Eos.
@@ -23,21 +7,25 @@
 ---
 
 ##  🌙 About Me
-✦ ────── ☾ ────── ✦
+✦ ────── ☾ ────── ✦ Backend ✦ ────── ☾ ────── ✦ Python Supremacy ✦ ────── ☾ ────── ✦
 
 ```bash
 > whoami
 Lennon Vinicius — Developer | Builder | Problem Solver
 ```
 
-* 💻 Focused on backend, automation and intelligent systems
-* 🤖 Exploring AI-driven applications and bots
-* 🚀 Interested in startups, scalable systems and real-world impact
-* 🌌 Always learning, always shipping
-
+*  Focused on backend, automation and intelligent systems
+*  Exploring AI-driven applications and bots
+*  Interested in startups, scalable systems and real-world impact
+*  Always learning, always shipping
 ---
 
-##  Tech Arsenal
+## 🌑Education
+* Systems Analysis and Development - FATEC-SP (Currently Enrolled)
+* Electrical Engineering - University of São Paulo (USP) (Interrupted – Transfer)
+* Technical Degree in Industrial Automation - Federal Institute of São Paulo
+
+##  🌒Tech Arsenal
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=white" width= 200px>
@@ -50,10 +38,10 @@ Lennon Vinicius — Developer | Builder | Problem Solver
 
 
 
-##  Featured Projects
+##  🌓Featured Projects
 
 
-###  System Tools & Experiments
+###  🌔System Tools & Experiments
 
 
 > Low-level and backend experiments
@@ -64,12 +52,12 @@ Lennon Vinicius — Developer | Builder | Problem Solver
 
 ---
 
-##  Contributions
+##  🌕Contributions
 
 
 ---
 
-##  Current Journey
+##  🌖Current Journey
 
 
 ```diff
@@ -81,7 +69,7 @@ Lennon Vinicius — Developer | Builder | Problem Solver
 
 ---
 
-##  Environment
+##  🌗Environment
 
 
 ```bash
@@ -93,7 +81,7 @@ Database: PostgreSQL
 
 ---
 
-##  Connect
+##  🌒Connect
 
 
 * 💼 Open to collaborations and projects
@@ -101,7 +89,7 @@ Database: PostgreSQL
 
 ---
 
-## 🌠 Final Words
+## 🌑 Final Words
 <img src ='https://tenor.com/pt-BR/view/noctis-lucis-caelum-noctis-ffxv-ff-final-fantasy-gif-67254588744488966.gif'>
 
 > *“The night is darkest just before dawn.”*
